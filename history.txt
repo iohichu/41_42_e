@@ -1,0 +1,27 @@
+   0 mkdir  /home/user2/task2/
+   1 mkdir -p /home/user2/task2
+   2 touch /home/user2/task2/file2.txt
+   3 cd /
+   4 ls
+   5 cp /home/user2/task2/file2.txt /opt/file.txt
+   6 ls /opt
+   7 mkdir -p /home/user1/task1
+   8 touch /home/user1/task1/file1.txt
+   9 mkdir -p /home/user3/task3
+  10 touch /home/user3/task3/file3.txt
+  11 mv --help
+  12 touch --help
+  13 cp --help
+  14 clear
+  15 mkdir /opt/task
+  16 mv /home/user3/task3/file3.txt /opt/task/
+  17 tree /opt
+  18 mv /opt/task/file3.txt /opt/task/1.txt
+  19 rmdir /home/user3/task3
+  20 rmdir --help
+  21 rm /home/user2/task2/file2.txt 
+  22 rm -rf /home/user2
+  23 cat /etc/os-release 
+  24 clear
+  25 history
+  26 history > /tmp/history.txt
